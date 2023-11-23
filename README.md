@@ -1,1 +1,4 @@
 # Flood-Forecasting-System
+In this sturdy, we used Long-Short Term Memory(LSTM) models for predicting the discharge for the basin. We use input parameters like precipitation, temperature, wind speed, and PET for predicting the discharge corresponding to these parameters.
+
+The thresholding model predicts flood extents based on river gauge measurements. The model leverages historical inundation data and river height measurements to forecast flood-prone areas, aiding in early warning systems and resource allocation during flood events. The Hoshangabad station was chosen for this study due to the availability of relevant data. Additionally, a comprehensive dashboard has been created to visualise inundation maps for specific dates and to predict inundation maps using the threshold model based on input gauge measurements.
